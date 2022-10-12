@@ -1,10 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/HyperTNTClown/webmonopoly_frontend.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
-[submodule "https://github.com/HyperTNTClown/webmonopoly_frontend.git"]
-	url = ./frontend
-[submodule "https://github.com/HyperTNTClown/webmonopoly_backend.git"]
-	url = ./backend
+	url = https://github.com/HyperTNTClown/webmonopoly_backend.git
