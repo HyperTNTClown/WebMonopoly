@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:HyperTNTClown/webmonopoly_frontend.git
+        update = merge
 [submodule "backend"]
 	path = backend
 	url = git@github.com:HyperTNTClown/webmonopoly_backend.git
+	update = merge
